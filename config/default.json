@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://fateh_18:fateh_18@databaseatlas.skty9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "localMongoURI": "mongodb://localhost:27017/homeDB",
+  "jwtSecret": "MySecretToken"
+}
