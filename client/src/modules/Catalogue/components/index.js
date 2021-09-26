@@ -64,7 +64,7 @@ const SimpleContainer = () => {
           <Grid container spacing={2}>
             <Grid direction='row' item xs={12}>
               <ColorToggleButton />
-
+              <Stack></Stack>
               {/* <Button variant='contained' style={{ padding: 12 }}>
                 Ajouter nouveau article
               </Button> */}
